@@ -1,4 +1,8 @@
 ### Hi there 👋
+I'm Jme! I will update this with more info later :D
+
+#### How to get this on your profile
+It's simple! Just make a repository that is the same name as your username (so for me it would be JmeJuniper), then add a README and have fun :D
 
 <!--
 **JmeJuniper/JmeJuniper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
