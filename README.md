@@ -1,5 +1,6 @@
 ### Hi there 👋
 I'm Jme! I will update this with more info later :D
+[![My Skills](https://skillicons.dev/icons?i=lua,github,html,js,css,latex,arduino,powershell&theme=dark)](https://skillicons.dev)
 
 #### How to get this on your profile
 It's simple! Just make a repository that is the same name as your username (so for me it would be JmeJuniper), then add a README and have fun :D
